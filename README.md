@@ -1,1 +1,2 @@
-# Functions-With-Argumnts
+# collisionAlgorithm
+Algorithm to detect collision between two objects
